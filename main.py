@@ -8,7 +8,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 # Sozlashlar
 logging.basicConfig(level=logging.INFO)
-API_TOKEN = '7923528667:AAFlyGHwS7fTami2N1Wtm3-t-LNJYgNg8pc'
+API_TOKEN = '7923528667:AAGrsUIIlfgx7Ov3PtQlqweBx38oEnmYXIw'
 CHANNEL_ID = -1002676385216
 ADMIN_ID = 5768770275  # O'z ID raqamingizni qo'ying
 
